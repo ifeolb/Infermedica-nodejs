@@ -1,0 +1,25 @@
+{
+  "name": "infermedica",
+  "version": "1.0.0",
+  "description": "In server.js, enter in your app id and app key:",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leon-do/Infermedica-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leon-do/Infermedica-nodejs/issues"
+  },
+  "homepage": "https://github.com/leon-do/Infermedica-nodejs#readme"
+}
